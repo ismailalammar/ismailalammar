@@ -45,4 +45,4 @@ I'm Ismail Alammar a passionate Software Engineer From Syria.
 ----
 :mailbox: Reach me out!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Ismail-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismail-al-ammar-6a5867129/) [![Mail Badge](https://img.shields.io/badge/-ismailammr95-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ismailammr95@gmail.com) [![Mail Badge](https://img.shields.io/badge/-@ismailammr95-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/ismailammr95)
+[![Linkedin Badge](https://img.shields.io/badge/-Ismail-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismail-al-ammar-6a5867129/) [![Mail Badge](https://img.shields.io/badge/-ismailammr95-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ismailammr95@gmail.com) [![Mail Badge](https://img.shields.io/badge/-@ismailammr95-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/ismailalammar/)
