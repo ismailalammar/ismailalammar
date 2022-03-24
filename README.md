@@ -12,8 +12,6 @@ I'm Ismail Alammar a passionate Software Engineer From Syria.
 ----
 
 #### Top Technologies and Tools
-<br />
-
 
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg"  alt="java" width="48" height="62"/> </a>
@@ -31,16 +29,8 @@ I'm Ismail Alammar a passionate Software Engineer From Syria.
 
 ----
 ### Github Stats
-<br />
 
 ![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=ismailalammar&count_private=true&theme=tokyonight&hide=contribs,prs)
-
-
-<a href="https://github.com/ismailalammar?tab=repositories"><img alt="Ismail Alammar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailalammar&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<br />
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-<br />
 
 ----
 :mailbox: Reach me out!
