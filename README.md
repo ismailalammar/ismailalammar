@@ -21,7 +21,8 @@ I'm Ismail Alammar a passionate Software Engineer From Syria.
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"/> </a>  
     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a> 
       <a href="https://kafka.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg" alt="jenkins" /> </a> 
-      <a href="https://argoproj.github.io/cd/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg"/> </a> 
+      <a href="https://argoproj.github.io/cd/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg"/> </a>
+    <a href="https://www.docker.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="90" height="70"/> </a>
  
 </p>
 
