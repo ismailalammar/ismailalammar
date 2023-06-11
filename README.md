@@ -28,11 +28,11 @@ I'm Ismail Alammar a passionate Software Engineer From Syria.
 
 <br />
 
-----
+<!-- ----
 ### Github Stats
 
 ![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=ismailalammar&count_private=true&theme=tokyonight&hide=stars,prs)
-
+ -->
 ----
 :mailbox: Reach me out!
 
