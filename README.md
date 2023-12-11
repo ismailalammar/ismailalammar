@@ -2,7 +2,7 @@
 
 I'm Ismail Alammar a passionate Software Engineer From Syria.
 
-- 🔭 I’m currently working at @heycar
+- 🔭 I’m currently working at @Vattenfall
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 📫 How to reach me: ismailammr95@gmail.com.
 - ⚡ Fun fact: I sleep early and go to the GYM very often.
